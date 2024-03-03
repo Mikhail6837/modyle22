@@ -4,8 +4,8 @@ package org.example;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        SpliteratorDemo a = new SpliteratorDemo();
-        a.split();
+        TreeMapDemo a = new TreeMapDemo();
+        a.treemap();
 
     }
 }
