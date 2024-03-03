@@ -7,8 +7,8 @@ import org.example.SpliteratorDemo;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        Zadacha2 a = new Zadacha2();
-        a.zadacha();
+        Zadacha1 a = new Zadacha1();
+        a.zada();
 
     }
 }
